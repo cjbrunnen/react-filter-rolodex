@@ -42,5 +42,3 @@ class App extends Component {
 }
 
 export default App;
-
-// https://jsonplaceholder.typicode.com/users
