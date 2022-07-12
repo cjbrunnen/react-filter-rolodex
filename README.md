@@ -1,4 +1,4 @@
-# React filter rolodex
+# React filter rolodex [using class components]
 
 This app was built with a focus on architecture, state positioning and resability of components.
 
